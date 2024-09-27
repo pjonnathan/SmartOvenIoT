@@ -46,5 +46,10 @@ As seguintes bibliotecas são utilizadas neste projeto:
   "Temperatura": 24.5,
   "Potenciometro": 75.3
 }
+````
+
+## Exemplo de Payload JSON
+![image](https://github.com/user-attachments/assets/3c5373a7-0ee2-492c-80c5-c525a884ffe5)
+
 
 
