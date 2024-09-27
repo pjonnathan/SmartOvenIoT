@@ -46,3 +46,5 @@ As seguintes bibliotecas são utilizadas neste projeto:
   "Temperatura": 24.5,
   "Potenciometro": 75.3
 }
+
+
