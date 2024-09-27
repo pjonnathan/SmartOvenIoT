@@ -48,7 +48,7 @@ As seguintes bibliotecas são utilizadas neste projeto:
 }
 ````
 
-## Exemplo de Payload JSON
+## Exemplo de Circuito
 ![image](https://github.com/user-attachments/assets/3c5373a7-0ee2-492c-80c5-c525a884ffe5)
 
 
